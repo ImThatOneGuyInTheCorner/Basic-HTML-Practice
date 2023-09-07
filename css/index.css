@@ -1,0 +1,45 @@
+
+
+body{
+    background-color: #fffcf3;
+}
+
+.titleCont {
+    background-color: rgb(249, 226, 197);
+    text-align: center;
+    border-radius: 15px;
+    width: 500px;
+    display: flex;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.container {
+    background-color: rgb(253, 223, 183);
+    text-align: center;
+    border-radius: 15px;
+    width: 450px;
+    height: 400px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-size: large;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.favoriteCont {
+    background-color: rgb(255, 246, 236);
+    width:380px;
+    border-radius: 10px;
+    position: absolute;
+    top: 265px;
+}
+
+.worstCont {
+    background-color: rgb(255, 249, 224);
+    width: 380px;
+    border-radius: 10px;
+    position: absolute;
+    top: 440px;
+}
